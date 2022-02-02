@@ -1,1 +1,1 @@
-# Multiple-Linear-regression Toyoto car price prediction problem
+# Multiple-Linear-regression car prediction and profit prediction problems.
